@@ -1,15 +1,15 @@
 <template>
     <div>
-        <router-view></router-view>
+        新增客户
     </div>
 </template>
 <script>
 // @ is an alias to /src
 export default {
-    name: 'XXX',
+    name: 'CustomCreate',
     data() {
         return {
-        
+            
         }
     },
     components: {
@@ -18,9 +18,5 @@ export default {
 }
 </script>
 <style lang="less">
-    html,body{
-        margin: 0;
-        padding: 0;
-        background-color: #eee;
-    }
+
 </style>

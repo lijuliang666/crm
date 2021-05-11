@@ -1,6 +1,6 @@
 <template>
     <div>
-        <router-view></router-view>
+        新增员工
     </div>
 </template>
 <script>
@@ -18,9 +18,5 @@ export default {
 }
 </script>
 <style lang="less">
-    html,body{
-        margin: 0;
-        padding: 0;
-        background-color: #eee;
-    }
+
 </style>
